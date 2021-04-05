@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Justine Chia 
+title: Sandip Panesar M.D. MSc
 ---
 
-Justine Chia is a Data Scientist at Austin Capital Data. She received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies.
-
+Sandip is a physician and scientist from the United Kingdom, who worked in the UK's National Healthcare Service after completing an undergraduate medical degree. He initially discovered the nascent potential of clinical artificial intelligence while working as a research fellow at the University of Pittsburgh and later, Stanford University.  
 -----
-
-As a data scientist, she is excited to leverage her expertise in the life sciences to inform heath-related research directions. She is also passionate about making science and data accessible to the general public.
-
-When not working on science, you can find her exploring trails in the backcountry, making mac n cheese, or building LED art projects.
+Subsequently, he decided to professionally cultivate this interest in the intersection of healthcare and technology by enrolling in UC Berkeley's master of information and data science (MIDS) program. He is particularly interested in AI-augmented clinical decision systems, medical image recognition and natural language processing of medical records.
+"A list of Sandip's academic publications can be found here" (https://scholar.google.com/citations?user=j1hYoM8AAAAJ&hl=en")
