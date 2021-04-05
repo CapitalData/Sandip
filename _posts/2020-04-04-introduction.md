@@ -7,4 +7,6 @@ Sandip is a physician and scientist from the United Kingdom, who worked in the U
 
 -----
 Subsequently, he decided to professionally cultivate this interest in the intersection of healthcare and technology by enrolling in UC Berkeley's master of information and data science (MIDS) program. He is particularly interested in AI-augmented clinical decision systems, medical image recognition and natural language processing of medical records.
-A list of Sandip's academic publications can be found here: <a href="https://scholar.google.com/citations?user=j1hYoM8AAAAJ&hl=en">Publications.</a>
+
+-----
+A list of Sandip's academic publications can be found here: <a href="https://scholar.google.com/citations?user=j1hYoM8AAAAJ&hl=en">Publications</a>
