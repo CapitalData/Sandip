@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Sandip Panesar M.D. MSc
+title: Sandip Panesar, M.D.
 ---
 
 Sandip is a physician and scientist from the United Kingdom, who worked in the UK's National Healthcare Service after completing an undergraduate medical degree. He initially discovered the nascent potential of clinical artificial intelligence while working as a research fellow at the University of Pittsburgh and later, Stanford University.  
